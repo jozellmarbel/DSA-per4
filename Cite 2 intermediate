@@ -1,0 +1,3 @@
+let names = ["Jonalyn", "Jozell", "Justine", "Janea", "Joezzan"];
+let sortedNames = quickSort(names);
+console.log(sortedNames);
