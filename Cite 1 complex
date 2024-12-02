@@ -1,0 +1,4 @@
+// Sorting an array with larger numbers
+let largerNumbers = [612, 523, 300, 500 450];
+let sortedLargerNumbers = radixSort(largerNumbers);
+console.log(sortedLargerNumbers);
